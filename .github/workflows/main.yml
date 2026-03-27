@@ -1,5 +1,4 @@
- name: CI/CD Demo
-
+name: CI/CD Demo
 on:
   push:
     branches: [ "main" ]
